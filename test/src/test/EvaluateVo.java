@@ -8,8 +8,6 @@ public class EvaluateVo {
 	public int getSelectNumber() {
 		return selectNumber;
 	}
-
-	
 	public void setSelectNumber(int selectNumber) {
 		this.selectNumber = selectNumber;
 	}

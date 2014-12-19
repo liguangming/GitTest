@@ -3,6 +3,7 @@ package test;
 
 public class EvaluateVo {
 	int selectNumber;
+	int test;
 
 	
 	public int getSelectNumber() {

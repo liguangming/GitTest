@@ -3,11 +3,14 @@ package test;
 
 public class EvaluateVo {
 	int selectNumber;
+	int test;
 
 	
 	public int getSelectNumber() {
 		return selectNumber;
 	}
+
+	
 	public void setSelectNumber(int selectNumber) {
 		this.selectNumber = selectNumber;
 	}

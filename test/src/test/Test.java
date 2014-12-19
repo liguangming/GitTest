@@ -4,6 +4,7 @@ import java.util.ArrayList;
 
 
 public class Test {
+	int test;
 	static ArrayList<EvaluateVo> quizList = new ArrayList<EvaluateVo>();
 	static int[] values = { 1, 2, 3,4,5,6};
 

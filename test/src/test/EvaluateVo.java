@@ -5,7 +5,7 @@ public class EvaluateVo {
 	int selectNumber;
 	int test;
 
-	
+	int i;
 	public int getSelectNumber() {
 		return selectNumber;
 	}

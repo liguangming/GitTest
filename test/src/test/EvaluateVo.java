@@ -9,6 +9,7 @@ public class EvaluateVo {
 	public int getSelectNumber() {
 		return selectNumber;
 	}
+	int li；
 
 	
 	public void setSelectNumber(int selectNumber) {

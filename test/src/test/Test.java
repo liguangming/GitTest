@@ -2,7 +2,7 @@ package test;
 
 import java.util.ArrayList;
 
-//≤‚ ‘git
+//≤‚ ‘gerritµΩgit
 public class Test {
 	int test;
 	static ArrayList<EvaluateVo> quizList = new ArrayList<EvaluateVo>();

@@ -13,6 +13,8 @@ import java.nio.channels.SocketChannel;
 import java.util.Set;
  
 public class FileServer {
+	
+	
     private int port = 8000;
     /* 发送数据缓冲区 */
     private static ByteBuffer revBuffer = ByteBuffer.allocate(1024);

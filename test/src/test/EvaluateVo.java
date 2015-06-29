@@ -4,7 +4,7 @@ package test;
 public class EvaluateVo {
 	int selectNumber;
 	int test;
-//测试2
+//测试3
 	int i;
 	public int getSelectNumber() {
 		return selectNumber;

@@ -14,7 +14,7 @@ import java.util.Set;
  
 public class FileServer {
 	
-	//测试2
+	//测试3
     private int port = 8000;
     /* 发送数据缓冲区 */
     private static ByteBuffer revBuffer = ByteBuffer.allocate(1024);
